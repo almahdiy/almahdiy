@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yaqeen Al Mahdi
-- 👀 I’m interested in algorithm engineering and artificial intelligence.
+- 👀 I’m interested in algorithm engineering, artificial intelligence, and distributed systems.
 - 📚 I'm currently reading:
      - The Algorithm Design Manual
      - Clean Code
