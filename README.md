@@ -2,7 +2,8 @@
 - 👀 I’m interested in algorithm engineering, artificial intelligence, and distributed systems.
 - 📚 I'm currently reading:
      - The Algorithm Design Manual
-     - Clean Code
+     - Designing Data-intensive Applications
+
 <!-- - 🌱 I’m currently learning -->
 - 💞️ I’m looking to collaborate on Django, Node.js, or Flutter projects.
 - 📫 How to reach me: yaqeen.a.almahdi@gmail.com
